@@ -1,0 +1,11 @@
+C:\Users\Aluno.LAB1MAQ03\source\repos\Pessoa1\Pessoa1\bin\Debug\netcoreapp2.1\Pessoa1.deps.json
+C:\Users\Aluno.LAB1MAQ03\source\repos\Pessoa1\Pessoa1\bin\Debug\netcoreapp2.1\Pessoa1.runtimeconfig.json
+C:\Users\Aluno.LAB1MAQ03\source\repos\Pessoa1\Pessoa1\bin\Debug\netcoreapp2.1\Pessoa1.runtimeconfig.dev.json
+C:\Users\Aluno.LAB1MAQ03\source\repos\Pessoa1\Pessoa1\bin\Debug\netcoreapp2.1\Pessoa1.dll
+C:\Users\Aluno.LAB1MAQ03\source\repos\Pessoa1\Pessoa1\bin\Debug\netcoreapp2.1\Pessoa1.pdb
+C:\Users\Aluno.LAB1MAQ03\source\repos\Pessoa1\Pessoa1\obj\Debug\netcoreapp2.1\Pessoa1.csprojAssemblyReference.cache
+C:\Users\Aluno.LAB1MAQ03\source\repos\Pessoa1\Pessoa1\obj\Debug\netcoreapp2.1\Pessoa1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.LAB1MAQ03\source\repos\Pessoa1\Pessoa1\obj\Debug\netcoreapp2.1\Pessoa1.AssemblyInfoInputs.cache
+C:\Users\Aluno.LAB1MAQ03\source\repos\Pessoa1\Pessoa1\obj\Debug\netcoreapp2.1\Pessoa1.AssemblyInfo.cs
+C:\Users\Aluno.LAB1MAQ03\source\repos\Pessoa1\Pessoa1\obj\Debug\netcoreapp2.1\Pessoa1.dll
+C:\Users\Aluno.LAB1MAQ03\source\repos\Pessoa1\Pessoa1\obj\Debug\netcoreapp2.1\Pessoa1.pdb
