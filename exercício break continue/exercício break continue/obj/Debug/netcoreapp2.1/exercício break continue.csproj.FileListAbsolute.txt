@@ -1,0 +1,10 @@
+C:\Users\Aluno\Downloads\exercício break continue\exercício break continue\bin\Debug\netcoreapp2.1\exercício break continue.deps.json
+C:\Users\Aluno\Downloads\exercício break continue\exercício break continue\bin\Debug\netcoreapp2.1\exercício break continue.runtimeconfig.json
+C:\Users\Aluno\Downloads\exercício break continue\exercício break continue\bin\Debug\netcoreapp2.1\exercício break continue.runtimeconfig.dev.json
+C:\Users\Aluno\Downloads\exercício break continue\exercício break continue\bin\Debug\netcoreapp2.1\exercício break continue.dll
+C:\Users\Aluno\Downloads\exercício break continue\exercício break continue\bin\Debug\netcoreapp2.1\exercício break continue.pdb
+C:\Users\Aluno\Downloads\exercício break continue\exercício break continue\obj\Debug\netcoreapp2.1\exercício break continue.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\exercício break continue\exercício break continue\obj\Debug\netcoreapp2.1\exercício break continue.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\exercício break continue\exercício break continue\obj\Debug\netcoreapp2.1\exercício break continue.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\exercício break continue\exercício break continue\obj\Debug\netcoreapp2.1\exercício break continue.dll
+C:\Users\Aluno\Downloads\exercício break continue\exercício break continue\obj\Debug\netcoreapp2.1\exercício break continue.pdb
