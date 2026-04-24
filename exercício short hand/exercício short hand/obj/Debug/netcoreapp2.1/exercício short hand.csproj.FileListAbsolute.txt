@@ -1,0 +1,11 @@
+C:\Users\Aluno\Downloads\exercício short hand\exercício short hand\bin\Debug\netcoreapp2.1\exercício short hand.deps.json
+C:\Users\Aluno\Downloads\exercício short hand\exercício short hand\bin\Debug\netcoreapp2.1\exercício short hand.runtimeconfig.json
+C:\Users\Aluno\Downloads\exercício short hand\exercício short hand\bin\Debug\netcoreapp2.1\exercício short hand.runtimeconfig.dev.json
+C:\Users\Aluno\Downloads\exercício short hand\exercício short hand\bin\Debug\netcoreapp2.1\exercício short hand.dll
+C:\Users\Aluno\Downloads\exercício short hand\exercício short hand\bin\Debug\netcoreapp2.1\exercício short hand.pdb
+C:\Users\Aluno\Downloads\exercício short hand\exercício short hand\obj\Debug\netcoreapp2.1\exercício short hand.csprojAssemblyReference.cache
+C:\Users\Aluno\Downloads\exercício short hand\exercício short hand\obj\Debug\netcoreapp2.1\exercício short hand.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\exercício short hand\exercício short hand\obj\Debug\netcoreapp2.1\exercício short hand.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\exercício short hand\exercício short hand\obj\Debug\netcoreapp2.1\exercício short hand.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\exercício short hand\exercício short hand\obj\Debug\netcoreapp2.1\exercício short hand.dll
+C:\Users\Aluno\Downloads\exercício short hand\exercício short hand\obj\Debug\netcoreapp2.1\exercício short hand.pdb
